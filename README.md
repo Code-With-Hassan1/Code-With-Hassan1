@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <h2 align="center" style="color:#00ffff;">Hassan Kashif</h2>
 
